@@ -10,7 +10,7 @@ if [ -f $file_name ] # -f checks weather the file is valid or not.
 then
     if [ -w $file_name ] # -w check if the user has write permission.
     then
-        echo "Enter some text: To quit press Ctrl+C: "
+        echo "Enter some text: To quit press Ctrl+D: "
         cat >> $file_name
     else
         echo "$file_name file does not have the write permission. "
