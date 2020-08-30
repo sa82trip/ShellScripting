@@ -1,5 +1,3 @@
-Hello
-How
-are you
-!!
-Sat Aug 29 11:39:37 EEST 2020
+Testing this file for shell script.
+Testing Testing
+Hello World! this is a test file. 
