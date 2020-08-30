@@ -13,3 +13,7 @@ do
 
 done
 echo "Total counts = $counter"
+
+# Note: while and until loops are opposite. In while if the condition
+# is true then the do commands are executed but in until loops
+# the do commands are executed if the condition is false.

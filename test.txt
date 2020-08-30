@@ -1,5 +1,3 @@
-:
-Budi a budi
-k chha mero budi
-aau na ghar chhito
-a mero budi 
+Hello, I am testing a read file using while loop.
+Lets see if it works.
+Shell Scripting is fun.
