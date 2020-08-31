@@ -4,7 +4,7 @@
 
 select item in apple orange banana grapes   #This is a list in menu
 do
-    echo " $item is selected"
+    echo " $item is selected. Select again or Ctrl +C to cancel."
 
 done
 
