@@ -2,12 +2,9 @@
 
 function HelloWorld(){      # HelloWorld is a function
     echo "Hello World. I am learning Shell Scripting."
-
 }
 
 # There is an alternative way of creating a function like below
-
-
 
 num1=20
 num2=10
@@ -18,7 +15,7 @@ Adding () {     # Adding is another function.
 }
 
 
-quit () {
+quit () {       # quit is one more function
     exit
 }
 
