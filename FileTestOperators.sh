@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 echo -e "Enter the name of the file: \c"
 # \c keeps the cursor on the same line when the script is run
 # and -e enables the interpretation of the \c. Without -e, it 

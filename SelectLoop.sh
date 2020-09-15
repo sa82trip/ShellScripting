@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # Select loop helps to make easy menus.
 

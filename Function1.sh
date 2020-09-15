@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 function HelloWorld(){      # HelloWorld is a function
     echo "Hello World. I am learning Shell Scripting."

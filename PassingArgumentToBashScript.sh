@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 #Wherever we pass arguments in bash script. They are 
 #stored in default argument. First argument will be 

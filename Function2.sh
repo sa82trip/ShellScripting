@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 
 function print(){     # print is a function. 

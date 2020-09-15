@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 echo "Enter name: " # the names entered by the user is stored in name1 and name2
 

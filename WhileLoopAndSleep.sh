@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 num=12
 counter=0

@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # We use pipe (|) and bc when dealing with decimals.
 

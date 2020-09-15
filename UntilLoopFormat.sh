@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 until [ condition ]
 do  # If the condtion is false then do commands are executed.

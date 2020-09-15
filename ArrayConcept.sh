@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 #Lets create an array of cars.
 

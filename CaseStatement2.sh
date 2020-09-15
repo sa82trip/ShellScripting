@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # Lets ask user to enter a character.
 echo -e "Enter a character: \c"

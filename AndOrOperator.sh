@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 echo  -e "Enter your age: \c"
 read age

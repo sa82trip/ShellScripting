@@ -1,7 +1,7 @@
 # In this example, first we will check if the file is valid and then if the 
 # user has the write permission. If so then, the user will apend the file.
 
-#! /bin/bash
+#!/bin/bash
 
 echo -e "Enter the name of the file: \c"
 read file_name

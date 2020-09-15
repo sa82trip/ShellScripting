@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 cat test.txt | while read newfile     # Content of test.txt is piped to while loop
 

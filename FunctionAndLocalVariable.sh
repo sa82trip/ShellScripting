@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # All variables are global in shell script.
 

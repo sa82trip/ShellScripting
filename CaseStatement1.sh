@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 Renting_Vehicle=$1
 

@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 number=10
 if [ $number -eq 10 ]  # -eq means equal to. We can also use 

@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 echo 1+1
 num1=20
