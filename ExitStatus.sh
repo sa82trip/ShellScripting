@@ -18,3 +18,5 @@ exit $var3
 
 # If the value of $var3 is bigger than 255, then the exit status
 # will be the difference (the result value - 256)
+# For instance, if $var3 = 305, then the exit status will be
+# 305 - 256 = 49
