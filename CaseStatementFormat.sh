@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # The case statement is alternative for multilevel if then statements.
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo  -e "Enter your age: \c"
+echo  -e "Enter your age: \c" # \c keeps the cursor on the same line when the script is run
 read age
 
 if [ "$age" -gt 20 ] && [ "$age" -lt 40 ]
