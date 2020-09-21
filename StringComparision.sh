@@ -16,3 +16,4 @@ fi
 
 # Note: strings are compared in alphabetical order. 
 # So, football is greater than cricket as f > c
+# Capitalized letters are treated less than lowercase letters in test comparisions.
