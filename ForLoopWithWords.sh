@@ -5,4 +5,4 @@ do
     echo "The words are: " $Words
 done
 
-echo "The last word is: " $Words
+$ls
