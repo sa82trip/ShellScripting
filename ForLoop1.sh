@@ -7,6 +7,11 @@ done
 
 echo "....................."
 
+
+# The for loop has the following syntax:
+# for (statement 1; statement 2; statement 3)
+
+
 for i in {10..20} # 10 to 20 is range. Use 2 dots.
 do
     echo $i

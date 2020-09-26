@@ -1,5 +1,9 @@
 #!/bin/bash
 
+
+# The for loop has the following syntax:
+# for (statement 1; statement 2; statement 3)
+
 #for (( EXP1; EXP2; EXP3 ))
 
 for (( i=0; i<10; i++)) # First expression initialize i with 0, 
